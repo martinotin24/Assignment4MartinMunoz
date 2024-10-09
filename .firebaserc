@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "socialnetworkproject-e0599"
-  }
+    "default": "portfoliov1martinmunoz-58429",
+    "portfolio": "portfoliov1martinmunoz-58429"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
